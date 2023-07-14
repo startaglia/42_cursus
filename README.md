@@ -1,6 +1,17 @@
-# 42_projects
+# 42Roma
 
-# Progress
+
+
+## About 42
+
+    42 is an innovative programming school, there are no classic frontal lessons, you work and
+    learn from peers (peer to peer learning).
+    The peer to peer method favors professional and personal growth
+    from many points of view. 42 is a free school, to access it there is a selection
+    process that we call "Piscine"; a month where gradually more difficult
+    projects have to be delivered.
+    
+## My progress
 |Circle | Project | Language | Description | Score | 
 |:-----:|:-------:|:--------:|:-----------:|:-----:|
 |00| [libft](https://github.com/startaglia/libft) | C | Personal C library for 42 projects | [![startagl's 42 Libft Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/2935535)](https://github.com/startaglia/libft) |
