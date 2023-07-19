@@ -22,6 +22,6 @@
 |02| [so_long](https://github.com/41kh413k/1337-so_long-42) | C | Small 2D arcade game. | [![startagl's 42 so_long Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/2990643)](https://github.com/JaeSeoKim/badge42) |
 |02| [minitalk](https://github.com/startaglia/minitalk) | C | Signal exchange between client-server. | [![startagl's 42 minitalk Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3032468)](https://github.com/JaeSeoKim/badge42) |
 |02| [push_swap](https://github.com/startaglia/push_swap) | C | Algorithmic sorting of data structures. | [![startagl's 42 push_swap Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3042173)](https://github.com/JaeSeoKim/badge42) |
-|03| [exam_03](https://github.com/4813k/1337-exam_rank_03-42) | C | Printf/gnl. | 100% |
+|03| [exam_03](https://github.com/4813k/1337-exam_rank_03-42) | C | printf/gnl. | 100% |
 |03| [philosophers](https://github.com1kh413k/1337-Philosopher-42) | C | Parallel management of processes and threads | [![startagl's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3095302)](https://github.com/JaeSeoKim/badge42) |
 |03| [minishell](https://github.com/startaglia/minishell) | C | Code basic functionality of the UNIX shell | [![startagl's 42 minishell Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3097446)](https://github.com/JaeSeoKim/badge42) |
