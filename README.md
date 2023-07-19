@@ -24,4 +24,4 @@
 |02| [push_swap](https://github.com/startaglia/push_swap) | C | Algorithmic sorting of data structures. | [![startagl's 42 push_swap Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3042173)](https://github.com/JaeSeoKim/badge42) |
 |03| [exam_03](https://github.com/4813k/1337-exam_rank_03-42) | C | Printf/gnl. | 100% |
 |03| [philosophers](https://github.com1kh413k/1337-Philosopher-42) | C | Parallel management of processes and threads | [![startagl's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3095302)](https://github.com/JaeSeoKim/badge42) |
-|03| [minishell](https://github.com/48413k/1337-Philosopher-4) | C | Code basic functionality of the UNIX shell | [![startagl's 42 minishell Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3097446)](https://github.com/JaeSeoKim/badge42) |
+|03| [minishell](https://github.com/startaglia/minishell) | C | Code basic functionality of the UNIX shell | [![startagl's 42 minishell Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3097446)](https://github.com/JaeSeoKim/badge42) |
