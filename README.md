@@ -25,3 +25,7 @@
 |03| [exam_03](https://github.com/4813k/1337-exam_rank_03-42) | C | printf/gnl. | 100% |
 |03| [philosophers](https://github.com/startaglia/philosophers) | C | Parallel management of processes and threads | [![startagl's 42 Philosophers Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3095302)](https://github.com/JaeSeoKim/badge42) |
 |03| [minishell](https://github.com/startaglia/minishell) | C | Code basic functionality of the UNIX shell | [![startagl's 42 minishell Score](https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/project/3097446)](https://github.com/JaeSeoKim/badge42) |
+
+
+
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/clg6jvxum001907l3c9ahu8ez/stats?cursusId=21&coalitionId=124" alt="startagl's 42 stats"/></a>
